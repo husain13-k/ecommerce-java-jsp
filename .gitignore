@@ -1,0 +1,5 @@
+target/
+ecommerce/
+.vscode/
+*.war
+*.class
